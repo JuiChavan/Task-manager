@@ -1,0 +1,9 @@
+{
+    "eslint.probe": [
+        "javascriptreact",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown"
+    ]
+}
